@@ -1,0 +1,52 @@
+cd .. :go back one level(From C:\Users\Msii\s3877327.github.io To C:\Users\Msii)
+cd <folder's name> : go to folder
+need to be at the right folder to do things
+
+git config: show info
+
+basic operation:
+
+git add
+
+git commit -m " things "
+
+git push
+
+git lock
+
+git status: the stage in at the momment
+
+git init : for when have a empty folder, make it a git folder
+
+git clone <git repo's URL> 
+
+git pull : (ALWAYS DO BEFORE DOING ANY PROJECT)
+
+-download the new update-
+-after that can do the operations-
+
+resolve conflicts in group projects
+
+git -D <branch name> :delete branch
+
+git branch
+
+git checkout <branch name>: go to the mentioned branch
+
+git checkout
+
+-------------
+git checkout <branch name>: go to the mentioned branch
+git add
+git commit -m " things "
+git push orgin <local branch> :
+--------------
+to merge branch
+
+to delete everything:
+with the branch: git -D branch (locally)
+                 git push origin --delete branch (online)
+                 git reset --hard
+                 git add .
+                 git commit -m ""
+                 git push
